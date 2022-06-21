@@ -34,12 +34,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/wmilani/wmilani/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/wmilani/count.svg?"  />
 </div>
