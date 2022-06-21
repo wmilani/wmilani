@@ -50,5 +50,7 @@
   <img height="200" src="https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif"  />
 </div>
 
+![snake gif](https://github.com/wmilani/wmilani/blob/output/github-contribution-grid-snake.svg)
+
 ###
 Profile Readme Generator
