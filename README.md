@@ -1,9 +1,15 @@
 ### Olá Bem Vindo ao meu Repositório 👊🏻
 
 
-
-- 🌱 Estudando Desenvolvimento iOS | Swift
+- 🌱 Estudando Desenvolvimento iOS | Swift | UiKit | ViewCode | Git
+- ✅ Estou procurando projetos iOS para colaborar no desenvolvimento
 - 📫 Contate-me através do e-mail milani.weslley@live.com
+
+
+- 📖 Cursos
+- BackFront Academy : Jornada iOS
+- 100 days of Swift do Paul Hudson
+  
 
 
 
