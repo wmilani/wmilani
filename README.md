@@ -3,8 +3,8 @@
 
 
 
-- 🌱 Estudando Desenvolvimento iOS | Swift | UiKit | ViewCode | Git
-- ✅ Estou procurando projetos iOS para colaborar no desenvolvimento
+- 🌱 Estudando Desenvolvimento Mobile | Kotlin  Git
+- ✅ Estou procurando projetos Kotlin/Android para colaborar no desenvolvimento
 - 📫 Contate-me através do e-mail milani.weslley@live.com
 
 
