@@ -3,8 +3,8 @@
 
 
 
-- 🌱 Estudando Desenvolvimento Mobile | Kotlin  Git
-- ✅ Estou procurando projetos Kotlin/Android para colaborar no desenvolvimento
+- 🌱 Estudando Segurança da Informação / PENTEST / RED TEAM
+- ✅ Estou procurando projetos de segurança da informação / pentest / red team
 - 📫 Contate-me através do e-mail milani.weslley@live.com
 
 
@@ -15,6 +15,7 @@
 - BackFront Academy : Jornada iOS
 - Mentoria CodandoComMoa
 - 100 days of Swift do Paul Hudson
+- Jornada do Pentest - DESEC
 
 
 
