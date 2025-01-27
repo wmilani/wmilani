@@ -3,8 +3,8 @@
 
 
 
-- 🌱 Estudando Segurança da Informação / PENTEST / RED TEAM
-- ✅ Estou procurando projetos de segurança da informação / pentest / red team
+- 🌱 Estudando Análise de dados
+- ✅ Estou procurando projetos de analista de dados para colocar em prática o conhecimento.
 - 📫 Contate-me através do e-mail milani.weslley@live.com
 
 
@@ -12,10 +12,10 @@
 
 
 - 📖 Cursos
-- BackFront Academy : Jornada iOS
-- Mentoria CodandoComMoa
-- 100 days of Swift do Paul Hudson
-- Jornada do Pentest - DESEC
+- Formação Analista de Dados - DNC
+- Aprendendo com Python - Enap - Escola Nacional de Administração Pública
+- SQL - EBAC
+
 
 
 
