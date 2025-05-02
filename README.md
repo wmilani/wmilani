@@ -3,9 +3,10 @@
 
 
 
-- 🌱 Estudando Análise de dados
+- 🌱 Graduando em Sistemas da Informação - Universidade Anhembi Morumbi
 - ✅ Estou procurando projetos de analista de dados para colocar em prática o conhecimento.
 - 📫 Contate-me através do e-mail milani.weslley@live.com
+- 💻 Estudante de Analise e Engenharia de Dados
 
 
 
